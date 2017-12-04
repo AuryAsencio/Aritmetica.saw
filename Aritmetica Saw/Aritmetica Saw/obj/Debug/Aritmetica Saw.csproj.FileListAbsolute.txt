@@ -1,0 +1,7 @@
+C:\Users\Aurys\Desktop\Aritmetica Saw\Aritmetica Saw\bin\Debug\Aritmetica Saw.exe.config
+C:\Users\Aurys\Desktop\Aritmetica Saw\Aritmetica Saw\bin\Debug\Aritmetica Saw.exe
+C:\Users\Aurys\Desktop\Aritmetica Saw\Aritmetica Saw\bin\Debug\Aritmetica Saw.pdb
+C:\Users\Aurys\Desktop\Aritmetica Saw\Aritmetica Saw\obj\Debug\Aritmetica Saw.csprojResolveAssemblyReference.cache
+C:\Users\Aurys\Desktop\Aritmetica Saw\Aritmetica Saw\obj\Debug\Aritmetica Saw.csproj.CoreCompileInputs.cache
+C:\Users\Aurys\Desktop\Aritmetica Saw\Aritmetica Saw\obj\Debug\Aritmetica Saw.exe
+C:\Users\Aurys\Desktop\Aritmetica Saw\Aritmetica Saw\obj\Debug\Aritmetica Saw.pdb
